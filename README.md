@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  VV Jagadeesh
-- 👀 I’m interested in  React Development
+- 👀 I’m interested in  Devops
 - 💞️ I’m looking to collaborate on Open source project
 - 📫 How to reach me  vvj.developer@gmail.com
 
